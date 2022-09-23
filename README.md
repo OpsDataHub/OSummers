@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OSummers
-- 👀 I’m interested in data
+- 👀 I’m interested in all things data
 - 🌱 I’m currently learning R and SQL further
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: DM on LinkedIn @oliverjsummers

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OSummers
 - 👀 I’m interested in all things data
 - 🌱 I’m currently learning R and SQL further
-- 💞️ I’m looking to collaborate on exciting projects
+- 💞️ I’m looking to be a part of a company with exciting business challanges involving data
 - 📫 How to reach me: DM on LinkedIn @oliverjsummers
 
 <!---
